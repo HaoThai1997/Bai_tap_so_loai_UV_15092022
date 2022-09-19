@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Monitoring_Control_Circuit.PcbDoc   9/19/2022  9:52:53 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Monitoring_Control_Circuit.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             289       PTH        0.00inch (0.00mm)
+T2      24mil (0.599mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T3      43mil (1.1mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T4      47mil (1.199mm)                                           Round             33        PTH        0.00inch (0.00mm)
+T5      55mil (1.4mm)                                             Round             20        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              350
+
+Total Processing Time (hh:mm:ss) : 00:00:00

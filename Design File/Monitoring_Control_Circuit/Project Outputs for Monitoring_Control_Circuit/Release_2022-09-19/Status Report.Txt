@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Monitoring_Control_Circuit.PcbDoc]
+   Generated File[Monitoring_Control_Circuit.TXT]
+   Generated File[Monitoring_Control_Circuit.LDP]
+   Generated File[Monitoring_Control_Circuit.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:52:54 PM On 9/19/2022

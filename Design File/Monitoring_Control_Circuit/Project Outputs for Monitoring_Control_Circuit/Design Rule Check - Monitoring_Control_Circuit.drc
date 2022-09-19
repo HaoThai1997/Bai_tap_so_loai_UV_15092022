@@ -1,0 +1,75 @@
+Protel Design System Design Rule Check
+PCB File : D:\Hoc_Altium\Lib\AltiumPIFLib\ICs\Monitoring_Control_Circuit.PcbDoc
+Date     : 9/19/2022
+Time     : 10:06:32 PM
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (IsKeepOut),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (InNet('P_GND')    or InNet('GND_EXT')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1mm) (Preferred=0.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room 04_ADC (Bounding Region = (178.943mm, 78.105mm, 249.809mm, 92.837mm) (Disabled)(InComponentClass('04_ADC'))
+Rule Violations :0
+
+Processing Rule : Room 06_Input_Output (Bounding Region = (178.943mm, 110.109mm, 452.628mm, 135.255mm) (Disabled)(InComponentClass('06_Input_Output'))
+Rule Violations :0
+
+Processing Rule : Room 05_Power (Bounding Region = (178.943mm, 94.107mm, 279.273mm, 108.839mm) (Disabled)(InComponentClass('05_Power'))
+Rule Violations :0
+
+Processing Rule : Room 01_MCU (Bounding Region = (178.943mm, 26.797mm, 313.817mm, 53.467mm) (Disabled)(InComponentClass('01_MCU'))
+Rule Violations :0
+
+Processing Rule : Room 02_Hum_Temp_Sensor (Bounding Region = (178.943mm, 54.737mm, 207.645mm, 60.833mm) (Disabled)(InComponentClass('02_Hum_Temp_Sensor'))
+Rule Violations :0
+
+Processing Rule : Room 03_RS485 (Bounding Region = (178.943mm, 62.103mm, 323.977mm, 76.835mm) (Disabled)(InComponentClass('03_RS485'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01
