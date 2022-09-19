@@ -160,7 +160,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YCRXYOUM
 
 [Document8]
-DocumentPath=..\..\Hoc_Altium\Lib\AltiumPIFLib\ICs\Monitoring_Control_Circuit.PcbDoc
+DocumentPath=Monitoring_Control_Circuit.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -174,10 +174,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ATVCMESM
+DocumentUniqueId=
 
 [Document9]
-DocumentPath=Monitoring_Control_Circuit.OutJob
+DocumentPath=Monitoring_Control_Circuit.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -202,310 +202,214 @@ DocumentPath=Project Outputs for Monitoring_Control_Circuit\Design Rule Check - 
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GM11
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GM12
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument27]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM3
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM3
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM11
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM11
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM12
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM12
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM14
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM14
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM16
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GM16
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument60]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument37]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument62]
+[GeneratedDocument38]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument63]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument64]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument65]
+[GeneratedDocument41]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument66]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument43]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument68]
+[GeneratedDocument44]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument69]
+[GeneratedDocument45]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument70]
+[GeneratedDocument46]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument71]
+[GeneratedDocument47]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument72]
+[GeneratedDocument48]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument73]
+[GeneratedDocument49]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.REP
 DItemRevisionGUID=
 
-[GeneratedDocument74]
+[GeneratedDocument50]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.REP
 DItemRevisionGUID=
 
-[GeneratedDocument75]
+[GeneratedDocument51]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument76]
+[GeneratedDocument52]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument77]
+[GeneratedDocument53]
 DocumentPath=Project Outputs for Free Documents\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument78]
+[GeneratedDocument54]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Gerber_2022-09-19\Monitoring_Control_Circuit.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument79]
+[GeneratedDocument55]
 DocumentPath=Project Outputs for Monitoring_Control_Circuit\Release_2022-09-19\Pick Place\PnP_2022-09-19.csv
 DItemRevisionGUID=
 
